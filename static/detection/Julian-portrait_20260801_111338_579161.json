@@ -1,0 +1,83 @@
+{
+    "image_name": "Julian-portrait_20260801_111338_579161.png",
+    "source_image_path": "/home/kasm-user/Downloads/Incremental-main-main/static/detection/Julian-portrait_20260801_111338_579161.png",
+    "total_objects": 7,
+    "object_counts": {
+        "long_sleeve_top": 5,
+        "trousers": 2
+    },
+    "detections": [
+        {
+            "class": "long_sleeve_top",
+            "confidence": 0.9561,
+            "bounding_box": {
+                "x1": 363,
+                "y1": 170,
+                "x2": 641,
+                "y2": 562
+            }
+        },
+        {
+            "class": "long_sleeve_top",
+            "confidence": 0.9019,
+            "bounding_box": {
+                "x1": 587,
+                "y1": 240,
+                "x2": 641,
+                "y2": 528
+            }
+        },
+        {
+            "class": "long_sleeve_top",
+            "confidence": 0.8891,
+            "bounding_box": {
+                "x1": 364,
+                "y1": 228,
+                "x2": 444,
+                "y2": 561
+            }
+        },
+        {
+            "class": "trousers",
+            "confidence": 0.8876,
+            "bounding_box": {
+                "x1": 410,
+                "y1": 499,
+                "x2": 524,
+                "y2": 931
+            }
+        },
+        {
+            "class": "trousers",
+            "confidence": 0.8468,
+            "bounding_box": {
+                "x1": 506,
+                "y1": 490,
+                "x2": 597,
+                "y2": 899
+            }
+        },
+        {
+            "class": "long_sleeve_top",
+            "confidence": 0.7706,
+            "bounding_box": {
+                "x1": 590,
+                "y1": 398,
+                "x2": 640,
+                "y2": 524
+            }
+        },
+        {
+            "class": "long_sleeve_top",
+            "confidence": 0.7192,
+            "bounding_box": {
+                "x1": 367,
+                "y1": 427,
+                "x2": 442,
+                "y2": 560
+            }
+        }
+    ],
+    "annotated_image_path": "/home/kasm-user/Downloads/Incremental-main-main/static/detection/detected_Julian-portrait_20260801_111338_579161.png",
+    "json_file_path": "/home/kasm-user/Downloads/Incremental-main-main/static/detection/Julian-portrait_20260801_111338_579161.json"
+}
